@@ -8,3 +8,5 @@
 * Investigated the impact of environmental factors on turkey vulture migration
 * Conducted statistical analysis to identify significant predictors of turkey vulture migration
 * Visualized the results of the analysis using various data visualization tools
+
+The following video for this project can be found on my [YouTube Channel](https://www.youtube.com/watch?v=5LJQB4QnlW8)
