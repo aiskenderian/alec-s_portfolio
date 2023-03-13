@@ -1,4 +1,4 @@
-#Author: Alec Iskenderian, aiskenderian@cpp.edu
+'#Author: Alec Iskenderian, aiskenderian@cpp.edu
 #date created: May 2022
 #date modified: August 2022
 ###adapted from: Data Cleaning with R and the Tidyverse: Detecting Missing Values, How to Remove Outliers in R, and How to Remove Rows in R(With Examples)
@@ -62,4 +62,4 @@ tuvu_filter_7783_Final <- tuvu_filter_7783_Final %>% select(-X)
 df_list <- rbind(tuvu_filter_0134_Final, tuvu_filter_4665_Final, tuvu_filter_7783_Final, tuvu_filter_96_Final)
 
 #Export combined data for DynamoVis
-write.csv(df_list, "tuvu_combined_final.csv")
+write.csv(df_list, "tuvu_combined_final.csv")'
