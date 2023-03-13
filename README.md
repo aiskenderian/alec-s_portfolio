@@ -1,6 +1,6 @@
 # **Alec's Portfolio**
 
-[Project 1:Lead Toxicity in Turkey Vultures Research Project](https://github.com/aiskenderian/alec-s_portfolio/blob/main/Lead%20Toxicity%20Effects%20on%20Turkey%20Vulture%20Migration%20Research%20Project)
+[Project 1:Lead Toxicity in Turkey Vultures Research Project](https://github.com/aiskenderian/Lead-Toxicity-Effects-on-Turkey-Vulture-Migration-Research-Project)
 
 * Analyzed the effects of lead toxicity on the migration patterns of turkey vultures
 * Collected and processed migration data for turkey vultures from a single source
