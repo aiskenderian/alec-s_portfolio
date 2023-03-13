@@ -1,6 +1,6 @@
 # **Alec's Portfolio**
 
-[Project 1:Lead Toxicity in Turkey Vultures Research Project]([https://github.com/aiskenderian/alec-s_portfolio/blob/9501bb0b2145adc7d53fc0648a892a21b29380f0/Lead%20Toxicity%20in%20Turkey%20Vultures%20Research%20Project](https://github.com/aiskenderian/alec-s_portfolio/blob/main/Lead%20Toxicity%20Effects%20on%20Turkey%20Vulture%20Migration%20Research%20Project))
+[Project 1:Lead Toxicity in Turkey Vultures Research Project]([https://github.com/aiskenderian/alec-s_portfolio/blob/9501bb0b2145adc7d53fc0648a892a21b29380f0/Lead%20Toxicity%20in%20Turkey%20Vultures%20Research%20Project](https://github.com/aiskenderian/alec-s_portfolio/blob/main/Lead%20Toxicity%20Effects%20on%20Turkey%20Vulture%20Migration%20Research%20Project)
 
 Background: Lead toxicity is a significant environmental problem that can impact many different species, including birds of prey such as the turkey vulture. In this research project, we aimed to investigate the effects of lead toxicity on the migration patterns of turkey vultures.
 
